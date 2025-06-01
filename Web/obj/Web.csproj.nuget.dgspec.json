@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALI OMRAN\\Desktop\\SV\\ToDoSolution_SV\\web\\Web.csproj": {}
+    "C:\\Users\\ALI OMRAN\\Desktop\\SV\\ToDoSolution_SV\\Web\\Web.csproj": {}
   },
   "projects": {
     "C:\\Users\\ALI OMRAN\\Desktop\\SV\\ToDoSolution_SV\\Business\\Business.csproj": {
@@ -126,14 +126,14 @@
         }
       }
     },
-    "C:\\Users\\ALI OMRAN\\Desktop\\SV\\ToDoSolution_SV\\web\\Web.csproj": {
+    "C:\\Users\\ALI OMRAN\\Desktop\\SV\\ToDoSolution_SV\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALI OMRAN\\Desktop\\SV\\ToDoSolution_SV\\web\\Web.csproj",
+        "projectUniqueName": "C:\\Users\\ALI OMRAN\\Desktop\\SV\\ToDoSolution_SV\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "C:\\Users\\ALI OMRAN\\Desktop\\SV\\ToDoSolution_SV\\web\\Web.csproj",
+        "projectPath": "C:\\Users\\ALI OMRAN\\Desktop\\SV\\ToDoSolution_SV\\Web\\Web.csproj",
         "packagesPath": "C:\\Users\\ALI OMRAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALI OMRAN\\Desktop\\SV\\ToDoSolution_SV\\web\\obj\\",
+        "outputPath": "C:\\Users\\ALI OMRAN\\Desktop\\SV\\ToDoSolution_SV\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALI OMRAN\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ALI OMRAN\\Desktop\\SV\\ToDoSolution_SV\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\ALI OMRAN\\Desktop\\SV\\ToDoSolution_SV\\web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\ALI OMRAN\\Desktop\\SV\\ToDoSolution_SV\\Web\\Web.csproj",
+      "projectPath": "C:\\Users\\ALI OMRAN\\Desktop\\SV\\ToDoSolution_SV\\web\\Web.csproj",
       "packagesPath": "C:\\Users\\ALI OMRAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ALI OMRAN\\Desktop\\SV\\ToDoSolution_SV\\Web\\obj\\",
+      "outputPath": "C:\\Users\\ALI OMRAN\\Desktop\\SV\\ToDoSolution_SV\\web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ALI OMRAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
